@@ -1,11 +1,11 @@
 # 🐍 Estudos de Django
 
-Este repositório foi criado para documentar meu aprendizado com o framework Django. Aqui, coloco em prática conceitos de desenvolvimento web backend, seguindo o padrão MVT (Model-View-Template).
+Este repositório foi criado para documentar meu aprendizado com o framework Django seguindo o tutorial básico da documentação. Aqui, coloco em prática conceitos de desenvolvimento web backend, seguindo o padrão MVT (Model-View-Template).
 
 ## 🚀 Tecnologias Utilizadas
 
-*   **Python 3.x**
-*   **Django 5.x**
+*   **Python 3.14.0**
+*   **Django 6.0**
 *   **SQLite** (Banco de dados padrão)
 *   **Virtualenv** (Ambiente virtual)
 
@@ -56,8 +56,8 @@ Até agora, este projeto cobre:
 - [x] Configuração de ambiente virtual.
 - [x] Criação de Apps e rotas (URLs ).
 - [x] Criação de Superuser e gerenciamento pelo Admin.
-- [ ] Integração com banco de dados (Models).
-- [ ] Criação de Views e Templates.
+- [x] Integração com banco de dados (Models).
+- [x] Criação de Views e Templates.
 
 ## ⚠️ Solução de Problemas Comuns
 
